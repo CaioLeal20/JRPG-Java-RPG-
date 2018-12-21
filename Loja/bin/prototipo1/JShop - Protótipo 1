@@ -1,0 +1,11 @@
+Protótipo 1
+          
+Recurso de persistência de dados: Nenhum
+
+Tratamento de erro: Não
+
+Interface gráfica: Não
+
+Objetivo: Criar um programa que simule a ação de comprar e vender itens numa loja. O usuário terá uma quantia limitada de dinheiro,
+          que será decrescida com o valor dos items comprados e acrescida no valor dos items vendidos. O usuário também poderá checar
+          seu inventário para ver os itens comprados.
