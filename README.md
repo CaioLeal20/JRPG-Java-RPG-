@@ -1,2 +1,2 @@
 # JRPG-Java-RPG-
-An open source, non-commercial, just for learning project
+Um projeto de código aberto, não comercial, somente para aprendizado
